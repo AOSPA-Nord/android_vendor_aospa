@@ -16,6 +16,7 @@
 PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/alioth/aospa_alioth.mk \
     $(LOCAL_DIR)/apollo/aospa_apollo.mk \
+    $(LOCAL_DIR)/avicii/aospa_avicii.mk \
     $(LOCAL_DIR)/beryllium/aospa_beryllium.mk \
     $(LOCAL_DIR)/bitra/aospa_bitra.mk \
     $(LOCAL_DIR)/bladerunner/aospa_bladerunner.mk \
@@ -38,6 +39,7 @@ PRODUCT_MAKEFILES += \
 COMMON_LUNCH_CHOICES += \
     aospa_alioth-userdebug \
     aospa_apollo-userdebug \
+    aospa_avicii-userdebug \
     aospa_beryllium-userdebug \
     aospa_bitra-userdebug \
     aospa_bladerunner-userdebug \
